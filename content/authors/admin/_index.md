@@ -3,8 +3,8 @@
 title: Alice Wu 吳恩達
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Keith
+last_name: Tran
 
 # Status emoji
 status:
@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
